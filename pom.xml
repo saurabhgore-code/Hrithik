@@ -11,6 +11,11 @@
   <name>mydir</name>
   <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
+  <artifactId>sami</artifactId>
+  <version>1.5</version>
+  <packaging>bundle</packaging>
+  <name>Karaf Quickstart : CXF :: SOAP</name>
+  <description>SOAP example using JAXWS</description>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
