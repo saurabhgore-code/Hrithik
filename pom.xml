@@ -3,7 +3,7 @@
 
   <modelVersion>4.0.0</modelVersion>
 
-  <groupId>34</groupId>
+  <groupId>MavenProject</groupId>
   <artifactId>sami</artifactId>
   <version>1.5</version>
   <packaging>bundle</packaging>
